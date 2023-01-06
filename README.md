@@ -1,2 +1,1 @@
-# project1
- my first project
+im not sure why this readme is needed just yet
