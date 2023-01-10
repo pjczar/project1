@@ -3,11 +3,11 @@ h1 {
   font-size: 24px;
   font-family: Helvetica, sans-serif;
   letter-spacing: 4px;
-}
+}   /*this is the large header styles */ 
 h2, h3, p {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
-}
+}/*this is the color and font styles */
 h2 {
   font-size: 18px;
 }
@@ -16,21 +16,21 @@ h3 {
 }
 p {
   font-size: 14px;
-}
+}/*this is the font sizes per class styles */
 header,footer, a:hover {
 	color: #fae663;
-}
+}/*this is the styles for the hovering */
 header, nav, footer {
   background-color: #f77dc8;
   border-color: #fae663;
   border-style: solid;
   border-width: 5px;
   
-}
+}/*this is the styles for containers*/
 body {
   margin: 25px;
   text-align: center;
-}
+}/*this is the alignment styles */
 img {
   margin: 15px;
   padding: 10px;
@@ -38,25 +38,25 @@ img {
   border-style: solid;
   border-width: 6px;
   size: 200px;
-}
+} /*this is image controling styles (im not 100% sure they are applied because i manually added code in the html that is technically closer */
 .align-right {
   text-align: right;
-}
+} /*this is style for the secret */
 .box {
   background-color: #fae663;
   text-align: center;
   padding: 20px;
   margin: 20px;
-}
+} /*this is the container styles */
 
 .round {
   border-radius: 10px;
-}
+} /*this adds roundness to the containers */
 hr {
   border-width: 6px;
   border-color: #f77dc8;
   border-style: solid;
-}
+} /*this styles the line breaks */
 .bold {
   font-variant: bold;
-}
+} /*self explanitory */
